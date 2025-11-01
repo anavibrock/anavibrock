@@ -1,5 +1,7 @@
 # 👩🏻‍💻 Ana Brock
 ** `programadora iniciante`**
+
+
 Me chamo Ana Vitória G. Brock, tenho 16 anos e sou natural da Bahia.Cursando o ensino médio no IFBA, com o curso técnico em informática.
 
 ---
